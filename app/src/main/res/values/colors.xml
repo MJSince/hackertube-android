@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hn_orange">#FF6600</color>
+    <color name="hn_orange_dark">#E55A00</color>
+    <color name="splash_background">#0F0F0F</color>
+    <color name="ic_launcher_background">#FF6600</color>
+</resources>

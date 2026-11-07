@@ -1,0 +1,10 @@
+HackerTube Android client
+
+Application source code is provided for this project without warranty.
+
+Dataset (videos.jsonl, taxonomy.json, related.jsonl) is derived from the
+HackerTube export (https://hackertube.org/data) under ODC-By 1.0.
+See https://opendatacommons.org/licenses/by/1-0/
+
+YouTube is a trademark of Google LLC. This app is not affiliated with
+YouTube, Google, Hacker News, or Y Combinator.
